@@ -16,15 +16,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek050_000.yaml, hash: 'sha256:ce6a5d99d282004a2270501e513f91391324e9a7cd1540133f00bedcbdc05a14'}
+  - {seq: 0, filename: KR3ek050_000.yaml, hash: 'sha256:4b79b7fc5b38d052d53bfeff69160614ac99ad9251f490ec776f249539441fd4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek050_000.markers.yaml, hash: 'sha256:8e2cbe2514a5356471214ba9b515a7dbc89275d735811ec974e6445c70a33309'}
+  - {seq: 0, role: markers, filename: assets/KR3ek050_000.markers.yaml, hash: 'sha256:9cf309e31bc1f14cdd7346f25bb657eab82bb34de0171525d2e102c460ab89db'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3ek050_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 6326
   label: 編序
@@ -34,7 +34,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d6
     span:
-    - front
+    - body
     - 274
     - 1218
   label: 疝作諸症說
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d7
     span:
-    - front
+    - body
     - 1218
     - 1401
   label: 診疝法
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d8
     span:
-    - front
+    - body
     - 1401
     - 1950
   label: 諸疝
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d9
     span:
-    - front
+    - body
     - 1950
     - 4132
   label: 諸積
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d10
     span:
-    - front
+    - body
     - 4132
     - 5354
   label: 寒疝主方
@@ -84,7 +84,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d11
     span:
-    - front
+    - body
     - 5354
     - 5959
   label: 積眾治方論
@@ -94,7 +94,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d12
     span:
-    - front
+    - body
     - 5959
     - 6326
   label: 藥說
@@ -105,12 +105,12 @@ table_of_contents:
     marker_id: KR3ek050_jc_000-d3.h1s1
     span:
     - body
-    - 0
-    - 258
+    - 6326
+    - 6584
   label: 跋
   type: section
   level: 1
-hash: sha256:aa6dce7b13c49a7c70b4ddd82c990734ac490a42d825a243d3b70216275e7647
+hash: sha256:f5ee62d349647f2797f29d29b55f6e3b146cec6920d70248f1deb4e779c6db32
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

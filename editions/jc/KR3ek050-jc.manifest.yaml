@@ -16,15 +16,15 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ek050_000-jc.yaml, hash: 'sha256:1a418e384dbf2158d13a8f040800ee296e90e44f812d7a77288224c4de7acefd'}
+  - {seq: 0, filename: KR3ek050_000-jc.yaml, hash: 'sha256:5f769a0ec0559ec0365e8b372f73b8c570657b69548df3c5ed8c7e75a6834ce7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek050_000-jc.markers.yaml, hash: 'sha256:ef75257256b0a2d3790229225f2e44554db86068fd41cf15d3b15579ac65741e'}
+  - {seq: 0, role: markers, filename: assets/KR3ek050_000-jc.markers.yaml, hash: 'sha256:9e0b37651c533c59cd74c411b0e89172ffb51a6c17542321a4033939501014f9'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR3ek050_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 6326
   label: 編序
@@ -34,7 +34,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d6
     span:
-    - front
+    - body
     - 274
     - 1218
   label: 疝作諸症說
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d7
     span:
-    - front
+    - body
     - 1218
     - 1401
   label: 診疝法
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d8
     span:
-    - front
+    - body
     - 1401
     - 1950
   label: 諸疝
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d9
     span:
-    - front
+    - body
     - 1950
     - 4132
   label: 諸積
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d10
     span:
-    - front
+    - body
     - 4132
     - 5354
   label: 寒疝主方
@@ -84,7 +84,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d11
     span:
-    - front
+    - body
     - 5354
     - 5959
   label: 積眾治方論
@@ -94,7 +94,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek050_jc_000-d2d12
     span:
-    - front
+    - body
     - 5959
     - 6326
   label: 藥說
@@ -105,9 +105,9 @@ table_of_contents:
     marker_id: KR3ek050_jc_000-d3.h1s1
     span:
     - body
-    - 0
-    - 258
+    - 6326
+    - 6584
   label: 跋
   type: section
   level: 1
-hash: sha256:813d4852c20cb6690d39925e3ea347a32e87268ce8134565eb56b9d2229daa9b
+hash: sha256:ba02b7626acfb2d491e142a5112815bd1d43003ef15db4b8610e740f43a66a20
